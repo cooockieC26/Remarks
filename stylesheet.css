@@ -76,8 +76,8 @@ p{
 }
 
 .charge{
-	position: relative; left: 33%;
-	width: 33%; 
+	position: relative; left: 20%;
+	width: 60%; 
 	font-size: 24px;
 }
 
@@ -87,7 +87,8 @@ p{
 }
 
 .make_notice{
+	width: 60%;
 	text-align: left;
 	color: red;
-	position: relative; left: 33%;
+	position: relative; left: 20%;
 }
