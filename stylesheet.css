@@ -64,7 +64,8 @@ p{
 }
 
 .buses{
-	
+	width: 80%;
+	position: relative; left: 10%;
 }
 
 .hotels{
@@ -89,6 +90,7 @@ p{
 .make_notice{
 	width: 60%;
 	text-align: left;
+	font-weight: bold;
 	color: red;
 	position: relative; left: 20%;
 }
